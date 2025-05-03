@@ -32,7 +32,7 @@ function RuntimeContextCard() {
     if (ctx === 'dev') {
         return (
             <Card title={title}>
-                <p></p>
+                <p>Coming Soo</p>
             </Card>
         );
     } else {
